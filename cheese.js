@@ -1,6 +1,6 @@
 [rewrite_local]
 
-^https?:\/\/rwapi.cheeseword\.com\/ url script-response-body 
+^https?:\/\/rwapi.cheeseword\.com\/url script-response-body 
 https://raw.githubusercontent.com/yannapqqe/quantumultx/blob/main/cheese.js
 
 [mitm]
